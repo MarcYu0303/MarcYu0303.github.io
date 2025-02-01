@@ -39,7 +39,7 @@ My research interest includes embodied intelligence, robot perception, and 3D vi
       <li>Depth Restoration of Hand-Held Transparent Objects for Human-to-Robot Handover</li>
       <li><strong>Ran Yu*</strong>, Haixin Yu*, Shoujie Li*, Yan Huang, Ziwu Song, Wenbo Ding†.</li>
       <li><i>2025 IEEE International Conference on Robotics and Automation (ICRA)</i>, Atlanta, USA</li>
-      <li><a href="https://arxiv.org/abs/2408.14997">Link</a>|<a href="https://arxiv.org/abs/2408.14997">Project Page</a></li>
+      <li><a href="https://arxiv.org/abs/2408.14997">Link</a>|<a href="https://marcyu0303.github.io/HADR.github.io/">Project Page</a></li>
     </ul>
   </div>
 </div>
@@ -54,9 +54,9 @@ My research interest includes embodied intelligence, robot perception, and 3D vi
   <div class='paper-box-text'>
     <ul>
       <li>Zero-shot Physical Understanding with Gaussian Splatting</li>
-      <li></strong>Ran Yu*</strong>, Haixin Yu*, Shoujie Li*, Yan Huang, Ziwu Song, Wenbo Ding†.</li>
+      <li>Yinghao Shuai, <strong>Ran Yu</strong>, Yuantao Chen, Zijian Jiang, Xiaowei Song, Nan Wang, Jv Zheng, Jianzhu Ma, MENG YANG, Zhicheng Wang, Wenbo Ding, Hao Zhao†.</li>
       <li><i>2025 IEEE International Conference on Robotics and Automation (ICRA)</i>, Atlanta, USA</li>
-      <li><a href="https://arxiv.org/abs/2408.14997">Link</a>|<a href="https://arxiv.org/abs/2408.14997">Project Page</a></li>
+      <li><a href="assets/pdfs/gs_physics.pdf">PDF</a>|<a href="https://github.com/EverNorif/PUGS">Project Page</a></li>
     </ul>
   </div>
 </div>
