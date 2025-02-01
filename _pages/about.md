@@ -39,7 +39,7 @@ My research interest includes embodied intelligence, robot perception, and 3D vi
       <li>Depth Restoration of Hand-Held Transparent Objects for Human-to-Robot Handover</li>
       <li><strong>Ran Yu*</strong>, Haixin Yu*, Shoujie Li*, Yan Huang, Ziwu Song, Wenbo Ding†.</li>
       <li><i>2025 IEEE International Conference on Robotics and Automation (ICRA)</i>, Atlanta, USA</li>
-      <li><a href="https://arxiv.org/abs/2408.14997">Link</a>|<a href="https://marcyu0303.github.io/HADR.github.io/">Project Page</a></li>
+      <li><a href="https://arxiv.org/abs/2408.14997">PDF</a>|<a href="https://marcyu0303.github.io/HADR.github.io/">Project Page</a></li>
     </ul>
   </div>
 </div>
@@ -60,6 +60,41 @@ My research interest includes embodied intelligence, robot perception, and 3D vi
     </ul>
   </div>
 </div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">CAAl Artificial Intelligence Research</div>
+      <img src='images/GExp.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text'>
+    <ul>
+      <li>Growing from Exploration: A self-exploring framework for robots based on foundation models</li>
+      <li>Shoujie Li*, <strong>Ran Yu*</strong>, Tong Wu*, JunWen Zhong, Xiao-Ping Zhang, Wenbo Ding†.</li>
+      <li><i>CAAl Artificial Intelligence Research, 2024</i></li>
+      <li><a href="assets/pdfs/GExp.pdf">PDF</a></li>
+    </ul>
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">ICRA 2024</div>
+      <img src='images/SATac.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text'>
+    <ul>
+      <li>SATac: A Thermoluminescence Enabled Tactile Sensor for Concurrent Perception of Temperature, Pressure, and Shear</li>
+      <li>Ziwu Song*, <strong>Ran Yu*</strong>, Xuan Zhang, Kit Wa Sou, Shilong Mu, Wenbo Ding†.</li>
+      <li><i>2024 IEEE International Conference on Robotics and Automation (ICRA)</i>, Yokohama, Japan</li>
+      <li><a href="assets/pdfs/SATac.pdf">PDF</a></li>
+    </ul>
+  </div>
+</div>
+
 
 
 <!-- # 🎖 Honors and Awards
