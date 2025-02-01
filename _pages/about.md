@@ -27,7 +27,39 @@ My research interest includes embodied intelligence, robot perception, and 3D vi
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">ICRA 2025</div>
+      <img src='images/handover.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text'>
+    <ul>
+      <li>Depth Restoration of Hand-Held Transparent Objects for Human-to-Robot Handover</li>
+      <li></strong>Ran Yu*</strong>, Haixin Yu*, Shoujie Li*, Yan Huang, Ziwu Song, Wenbo Ding†.</li>
+      <li><i>2025 IEEE International Conference on Robotics and Automation (ICRA)</i>, Atlanta, USA</li>
+      <li><a href="https://arxiv.org/abs/2408.14997">Link</a>|<a href="https://arxiv.org/abs/2408.14997">Project Page</a></li>
+    </ul>
+  </div>
+</div>
 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">ICRA 2025</div>
+      <img src='images/handover.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text'>
+    <ul>
+      <li>Depth Restoration of Hand-Held Transparent Objects for Human-to-Robot Handover</li>
+      <li></strong>Ran Yu*</strong>, Haixin Yu*, Shoujie Li*, Yan Huang, Ziwu Song, Wenbo Ding†.</li>
+      <li><i>2025 IEEE International Conference on Robotics and Automation (ICRA)</i>, Atlanta, USA</li>
+      <li><a href="https://arxiv.org/abs/2408.14997">Link</a>|<a href="https://arxiv.org/abs/2408.14997">Project Page</a></li>
+    </ul>
+  </div>
+</div>
 
 
 <!-- # 🎖 Honors and Awards
