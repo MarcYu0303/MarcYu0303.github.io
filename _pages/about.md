@@ -113,6 +113,6 @@ My research interest includes embodied intelligence, robot perception, and 3D vi
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
 
 
-<div style="width: 300px; height: 200px; overflow: hidden;">
+<div style="width: 300px; height: 200px; overflow: hidden; margin: 0 auto;">
   <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Ms9rl1ihNiAWfnw_VBolTXxG60YcSHnolrvHYmLfonQ&cl=ffffff&w=a"></script>
 </div>
