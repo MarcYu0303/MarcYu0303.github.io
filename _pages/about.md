@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-
+# 📖 About me
 I am a sencond year Master student at Tsinghua-Berkeley Shenzhen Institute (TBSI), Tsinghua University, advised by [Prof. Wenbo Ding](https://ssr-group.net). I received my BEng degree in Electronic and Information Engineering from [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn).
 
 My research interest includes embodied intelligence, robot perception, and 3D vision for robotics.
