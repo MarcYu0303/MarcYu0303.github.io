@@ -31,7 +31,7 @@ My research interest includes embodied intelligence, robot perception, and 3D vi
   <div class='paper-box-image'>
     <div>
       <div class="badge">ICRA 2025</div>
-      <img src='images/handover.png' alt="sym" width="100%">
+      <img src='images/handover.png' alt="sym" width="80%">
     </div>
   </div>
   <div class='paper-box-text'>
@@ -113,6 +113,6 @@ My research interest includes embodied intelligence, robot perception, and 3D vi
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
 
 
-<div style="width: 300px; height: 200px; overflow: hidden; margin: 0 auto;">
+<!-- <div style="width: 300px; height: 200px; overflow: hidden; margin: 0 auto;">
   <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Ms9rl1ihNiAWfnw_VBolTXxG60YcSHnolrvHYmLfonQ&cl=ffffff&w=a"></script>
-</div>
+</div> -->
